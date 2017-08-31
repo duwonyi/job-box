@@ -13,10 +13,10 @@ App Url https://duwonyi.github.io/job-box/
 
 ## Screenshots
 
-![Job List](https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-jobs.png)
-![Job Read](https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-read.png)
-![Job Edit](https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-edit.png)
-![Job Add](https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-add.png)
+<img src="https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-jobs.png" width="50%" height="50%">
+<img src="https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-read.png" width="50%" height="50%">
+<img src="https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-edit.png" width="50%" height="50%">
+<img src="https://github.com/duwonyi/job-box/blob/gh-pages/Job-Box-add.png" width="50%" height="50%">
 
 ## Setup
 

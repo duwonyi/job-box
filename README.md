@@ -2,6 +2,8 @@
 
 Simple web app for jobseekers in React with Firebase and Material UI.
 
+App Url https://duwonyi.github.io/job-box/
+
 ## Features
 - List jobs
 - Add a job

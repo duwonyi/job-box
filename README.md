@@ -16,10 +16,15 @@ Simple web app for jobseekers in React with Firebase and Material UI.
 - Build for production. - `yarn build`
 - Open in Browser- `open http://localhost:3500`
 
+## Technologies
+- [React](https://facebook.github.io/react/)
+- Firebase
+- Material UI
+
 ## Dependencies
 
-* React
+* [React](https://facebook.github.io/react/)
 * Webpack
 * [babel-loader](https://github.com/babel/babel-loader)
 * [webpack-dev-server](https://github.com/webpack/webpack-dev-server)
-* [Material UI](material-ui.com)
+* [Material UI](http://www.material-ui.com/)

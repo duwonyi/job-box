@@ -16,7 +16,7 @@ class Header extends Component {
     return (
       <div>
         <AppBar
-          title='Title'
+          title='Job-Box'
           iconClassNameRight='muidocs-icon-navigation-expand-more'
           onLeftIconButtonTouchTap={this.handleToggle}
         />

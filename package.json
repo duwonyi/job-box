@@ -1,18 +1,16 @@
 {
-  "name": "react-simple-boilerplate",
+  "name": "job-box",
   "version": "1.0.0",
-  "description": "Simple and lightweight Boilerplate for ReactJS projects",
+  "description": "Web app for job seekers",
   "scripts": {
-    "lint": "eslint --ext .jsx,.js src",
+    "build": "webpack -p --config webpack.config.production.js",
     "start": "node server.js"
   },
   "keywords": [
     "react",
     "reactjs",
-    "boilerplate",
-    "reload",
-    "live",
-    "edit",
+    "material-ui",
+    "firebase",
     "webpack"
   ],
   "license": "MIT",

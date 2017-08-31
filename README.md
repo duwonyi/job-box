@@ -1,23 +1,22 @@
-Job-Box
-=========
+# Job-Box
+
+Simple web app for jobseekers in React with Firebase and Material UI.
+
+## Features
+- List jobs
+- Add a job
+- Edit a job
+- Delete a job
 
 
+## Setup
 
-Install the dependencies and start the server.
+- Install Node packages. -  `yarn install`
+- Start a development server. - `yarn start`
+- Build for production. - `yarn build`
+- Open in Browser- `open http://localhost:3500`
 
-```
-npm install
-npm start
-open http://localhost:3500
-```
-
-### Static Files
-
-You can store static files like images, fonts, etc in the `build` folder.
-
-For example, if you copy a file called my_image.png into the build folder you can access it using `http://localhost:3500/build/my_image.png`.
-
-### Dependencies
+## Dependencies
 
 * React
 * Webpack
